@@ -6,7 +6,7 @@ url = '/'
 
 This unique book describes an expert neurosurgeon′s way of avoiding trouble in the clinic and the operating theatre. Mr Adams, an internationally recognized neurosurgeon and teacher, has trained numerous neurosurgical fellows from around the world including the US, Japan, Australia, Europe and South Africa. The book contains his pearls of wisdom after a lifetime of neurosurgical practice. It is a distillation from his own notebook, which contains 30 years′ worth of clinical cases (and both his successes and failures).
 
-
+[**Download the book here**](https://lozhostingservices.blob.core.windows.net/aneurosurgeonsnotebook/A-Surgeon-s-Notebook-Chris-Adams.pdf)!
 
 ## About the Book
 
@@ -23,4 +23,4 @@ The book is not intended as a comprehensive textbook of neurosurgery but covers 
 – unusual pathologies to watch out for and
 – operative technical tips
 
-[Download the book here](https://lozhostingservices.blob.core.windows.net/aneurosurgeonsnotebook/A-Surgeon-s-Notebook-Chris-Adams.pdf)!
+[**Download the book here**](https://lozhostingservices.blob.core.windows.net/aneurosurgeonsnotebook/A-Surgeon-s-Notebook-Chris-Adams.pdf)!

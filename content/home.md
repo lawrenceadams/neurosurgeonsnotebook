@@ -23,4 +23,4 @@ The book is not intended as a comprehensive textbook of neurosurgery but covers 
 – unusual pathologies to watch out for and
 – operative technical tips
 
-[Download the book here](A-Surgeon-s-Notebook-Chris-Adams.pdf)!
+[Download the book here](https://lozhostingservices.blob.core.windows.net/aneurosurgeonsnotebook/A-Surgeon-s-Notebook-Chris-Adams.pdf)!

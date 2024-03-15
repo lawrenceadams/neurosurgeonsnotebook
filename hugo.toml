@@ -1,0 +1,4 @@
+baseURL = 'https://aneurosurgeonshandbook.co.uk/'
+languageCode = 'en-us'
+title = "A Neurosurgeon's Handbook"
+theme = 'PaperMod'
